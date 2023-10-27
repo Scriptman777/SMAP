@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-10-27T07:52:09.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="OF7MzF9arDSM3WScQNek" version="22.0.8" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="663" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2271" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PEo_AYSKm5B2Em44jP67-2260">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2260" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#0084FF;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="1">
+          <mxGeometry x="180" y="357.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2261" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0084FF;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2262" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="332" y="190" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2272" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PEo_AYSKm5B2Em44jP67-2263">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2263" value="" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(coil_tubes);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeColor=#0084FF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2264" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0084FF;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="386" y="351" width="28" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2266" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#0084FF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="41" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2267" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#0084FF;fontColor=#ffffff;align=right;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2268" value="" style="html=1;shadow=0;dashed=0;shape=ellipse;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="PEo_AYSKm5B2Em44jP67-2267">
+          <mxGeometry x="0.5" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2273" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="targetPoint" />
+            <mxPoint x="400" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PEo_AYSKm5B2Em44jP67-2266">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="targetPoint" />
+            <mxPoint x="390" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2276" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.044;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PEo_AYSKm5B2Em44jP67-2267">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="targetPoint" />
+            <mxPoint x="410" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2278" value="Sensor&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="402.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2279" value="Heater" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="402.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2280" value="Dashboard&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="409" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2281" value="3D Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2282" value="Physical controls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="402.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PEo_AYSKm5B2Em44jP67-2283" value="Cloud/Local server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
