@@ -57,10 +57,42 @@ void loop() {
   ArduinoCloud.update();
   // Your code here 
 
+  // Heater
+  if (heater_on) {
+    digitalWrite(pinHeater,HIGH); 
+  }
+  else {
+    digitalWrite(pinHeater,LOW); 
+  }
 
+  // Aircon
+  if (ac_on) {
+    digitalWrite(pinAC,HIGH); 
+  }
+  else {
+    digitalWrite(pinAC,LOW); 
+  }
+
+  // TV
+
+  if (tv_on) {
+    digitalWrite(pinTV,HIGH); 
+  }
+  else {
+    digitalWrite(pinTV,LOW); 
+  }
+
+  // Light
+
+  if (light_on) {
+    digitalWrite(pinLight,HIGH); 
+  }
+  else {
+    digitalWrite(pinLight,LOW); 
+  }
   
 
-  
+
   
   delay(350);
 }
@@ -73,6 +105,7 @@ void loop() {
 */
 void onHeaterOnChange()  {
   // Add your code here to act upon HeaterOn change
+  Serial.println("Heater updated!");
 }
 
 /*
@@ -81,6 +114,7 @@ void onHeaterOnChange()  {
 */
 void onAcOnChange()  {
   // Add your code here to act upon AcOn change
+  Serial.println("AC updated!");
 }
 
 /*
@@ -89,6 +123,7 @@ void onAcOnChange()  {
 */
 void onLightOnChange()  {
   // Add your code here to act upon LightOn change
+  Serial.println("Light updated!");
 }
 
 /*
@@ -97,4 +132,5 @@ void onLightOnChange()  {
 */
 void onTvOnChange()  {
   // Add your code here to act upon TvOn change
+  Serial.println("TV updated!");
 }
